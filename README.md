@@ -3,5 +3,6 @@
 ## How to run
 > Compile Main.java in the 'vista' folder and run by bash
 ```
-java (Name of the compile file).class
+javac Main.java
+java Main.class
 ```
