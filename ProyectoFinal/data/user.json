@@ -1,0 +1,149 @@
+{"usuarios": [
+    {
+        "juegos": [
+            {
+                "puntuacionMinima": -305,
+                "puntuacionMaxima": 250,
+                "juego": "Hundir la Flota"
+            },
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "wordle"
+            },
+            {
+                "derrotas": 8,
+                "victorias": 1,
+                "juego": "4 en raya"
+            }
+        ],
+        "passwd": "MTIzNA==",
+        "nombre": "VikinXX"
+    },
+    {
+        "juegos": [
+            {
+                "puntuacionMinima": -140,
+                "puntuacionMaxima": 580,
+                "juego": "Hundir la Flota"
+            },
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "wordle"
+            },
+            {
+                "derrotas": 22,
+                "victorias": 31,
+                "juego": "4 en raya"
+            }
+        ],
+        "passwd": "MQ==",
+        "nombre": "1"
+    },
+    {
+        "juegos": [
+            {
+                "puntuacionMinima": -185,
+                "puntuacionMaxima": 0,
+                "juego": "Hundir la Flota"
+            },
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "wordle"
+            },
+            {
+                "derrotas": 0,
+                "victorias": 1,
+                "juego": "4 en raya"
+            }
+        ],
+        "passwd": "YWJjRDM=",
+        "nombre": "2"
+    },
+    {
+        "juegos": [
+            {
+                "puntuacionMinima": -110,
+                "puntuacionMaxima": 0,
+                "juego": "Hundir la Flota"
+            },
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "wordle"
+            },
+            {
+                "derrotas": 0,
+                "victorias": 0,
+                "juego": "4 en raya"
+            }
+        ],
+        "passwd": "UlZBMDAxYW92",
+        "nombre": "Rachel"
+    },
+    {
+        "juegos": [
+            {
+                "puntuacionMinima": -110,
+                "puntuacionMaxima": 565,
+                "juego": "Hundir la Flota"
+            },
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "wordle"
+            },
+            {
+                "derrotas": 15,
+                "victorias": 21,
+                "juego": "4 en raya"
+            }
+        ],
+        "passwd": "RGFuaTIwMDU=",
+        "nombre": "dani"
+    },
+    {
+        "juegos": [
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "Hundir la Flota"
+            },
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "wordle"
+            },
+            {
+                "derrotas": 0,
+                "victorias": 1,
+                "juego": "4 en raya"
+            }
+        ],
+        "passwd": "RGFuaTIwMDU=",
+        "nombre": "dani2"
+    },
+    {
+        "juegos": [
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "Hundir la Flota"
+            },
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "wordle"
+            },
+            {
+                "derrotas": 1,
+                "victorias": 1,
+                "juego": "4 en raya"
+            }
+        ],
+        "passwd": "QWx2YXJvMQ==",
+        "nombre": "Alvaro"
+    }
+]}
